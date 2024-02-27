@@ -126,7 +126,7 @@ if "sudo" not in info:
 
 print(H+'━'*55+S)
 
-txt = 24
+txt = 1
 
 srt = 0
 clients = {}
